@@ -1,0 +1,2 @@
+# BoleteriaC
+Proyecto inicial
